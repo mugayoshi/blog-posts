@@ -62,7 +62,7 @@ export const getParentOption = (
     }
     return undefined;
   };
-  const checkboxOptionTree: CheckboxOptionTree = {
+  const checkboxOptionTree = {
     label: 'root',
     value: 'value',
     children: options,
