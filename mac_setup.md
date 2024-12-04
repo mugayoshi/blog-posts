@@ -9,6 +9,11 @@
 
 - Switch input source shortcut → cmd + space
   - only if you need multiple input sources
+ 
+# External Devices
+- Keybowrd
+- Mouse
+- etc.
 
 # Browser
 ## Extensions
