@@ -9,7 +9,7 @@
 
 - Switch input source shortcut → cmd + space
   - only if you need multiple input sources
- 
+
 # External Devices
 - Keybowrd
 - Mouse
@@ -61,11 +61,17 @@ It’s recommended to follow these steps **in order**.
 1. Homebrew https://brew.sh/
    1. During the installation of Homebrew, Command Line Tools for Xcode needs to be installed.
    2. It’s installed along with Git
-2. set up a shell (Mac’s default shell is zsh)
+1. set up a shell (Mac’s default shell is zsh)
    1. create and edit ~/.zsh if necessary
-3. IDE (VSCode in my case)
+1. IDE (VSCode in my case)
    1. If you need to set a Python interpreter, set */usr/local/bin/python3.11*
-4. Docker Desktop
+1. Set up GitHub SSH key
+   1. generate SSH key
+   1. Add SSH key to Setting on GitHub
+   1. Test SSH connection from a terminal
+   1. Clone a repository
+
+1. Docker Desktop
 
 ### Optional tools
 
