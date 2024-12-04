@@ -53,6 +53,7 @@
 
 # Other Apps
 - Spotify
+- Typora
 
 # Setups for Engineers
 It’s recommended to follow these steps **in order**.
