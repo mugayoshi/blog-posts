@@ -22,6 +22,7 @@
 - Grammarly
 - React Developer Tools
 - GoLinks
+- AdBlock
 
 # Slack
 - Change the setting “When writing a message, press Enter to.. “ (Preferences > Advanced)
