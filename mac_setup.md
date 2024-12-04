@@ -13,7 +13,7 @@
 # External Devices
 - Keybowrd
 - Mouse
-- etc.
+- Headphones, etc.
 
 # Browser
 ## Extensions
@@ -37,6 +37,8 @@
 - [ ] Maccy (clipboard manager)Maccy - macOS clipboard manager
   - https://maccy.app/
   - it’s possible to get it for free
+  - Adjust setting
+    - Open: "Shift + Cmd + M"
 
 - [ ] Rectangle (move and resize windows) Rectangle
   - https://rectangleapp.com/
@@ -48,16 +50,20 @@
 - [ ] Alfred
   - https://www.alfredapp.com/
 
+# Other Apps
+- Spotify
+
 # Setups for Engineers
 It’s recommended to follow these steps **in order**.
 
 1. Homebrew https://brew.sh/
-   1. It’s installed along with Git
+   1. During the installation of Homebrew, Command Line Tools for Xcode needs to be installed.
+   2. It’s installed along with Git
 2. set up a shell (Mac’s default shell is zsh)
    1. create and edit ~/.zsh if necessary
 3. IDE (VSCode in my case)
    1. If you need to set a Python interpreter, set */usr/local/bin/python3.11*
-4. Docker desktop
+4. Docker Desktop
 
 ### Optional tools
 
