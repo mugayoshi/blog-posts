@@ -6,6 +6,7 @@
 - Turn on Keyboard > Touch Bar shows “F1, F2, etc. Keys”
 - Turn on Keyboard > Function Keys >“Use F1, F2, etc. keys are standard function keys”
 - Turn off “Automatically adjust brightness”
+- Turn on Dock Setting "Automatically hide and show the Dock"
 
 - Switch input source shortcut → cmd + space
   - only if you need multiple input sources
