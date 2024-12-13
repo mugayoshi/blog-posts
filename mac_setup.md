@@ -5,6 +5,8 @@
 - Turn on TrackPad > Tap to click
 - Turn on Keyboard > Touch Bar shows “F1, F2, etc. Keys”
 - Turn on Keyboard > Function Keys >“Use F1, F2, etc. keys are standard function keys”
+- Change Keyboard Shortcuts
+  - Mission Control > Move left/right a space: cmd + < or cmd + >
 - Turn off “Automatically adjust brightness”
 - Turn on Dock Setting "Automatically hide and show the Dock"
 
