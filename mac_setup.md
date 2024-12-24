@@ -58,7 +58,7 @@
 - Spotify
 - Typora
 
-# Setups for Engineers
+# Setups for Developers
 It’s recommended to follow these steps **in order**.
 
 1. Homebrew https://brew.sh/
