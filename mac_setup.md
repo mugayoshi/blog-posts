@@ -63,7 +63,7 @@ It’s recommended to follow these steps **in order**.
 
 1. Homebrew https://brew.sh/
    1. During the installation of Homebrew, Command Line Tools for Xcode needs to be installed.
-   2. It’s installed along with Git
+   1. It’s installed along with Git
 1. set up a shell (Mac’s default shell is zsh)
    1. create and edit ~/.zsh if necessary
 1. IDE (VSCode in my case)
@@ -73,8 +73,11 @@ It’s recommended to follow these steps **in order**.
    1. Add SSH key to Setting on GitHub
    1. Test SSH connection from a terminal
    1. Clone a repository
-
-1. Docker Desktop
+1. Set Git config
+   1. set name and email for the machine
+      1. `git config --global user.name "name"`
+      1. `git config --global user.email "email_address"`
+1. Install Docker Desktop
 
 ### Optional tools
 
