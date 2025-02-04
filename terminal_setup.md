@@ -7,9 +7,9 @@
 ## Warp
 Specific setting for Warp
 
-1. download Hack Nerd Font fonts from [here](https://www.nerdfonts.com/font-downloads)
-
-2. set Catppuchin theme
+1. download Hack Nerd Font fonts from [here](https://www.nerdfonts.com/font-downloads) and install them.
+2. make sure Hack Nerd Font is used in Warp settings. 
+3. set Catppuchin theme
   1. create a custom theme directory
   ```
   mkdir -p $HOME/.warp/themes/
@@ -18,8 +18,8 @@ Specific setting for Warp
   3. restart Warp
 
   4. Custom prompt by [Starship](https://starship.rs/guide/)
-        1. install Starship by Homebrew
+      1. install Starship by Homebrew
       2. Set Gruvbox Rainbow Preset
       3. Edit the local `starship.toml`
-                1. Copy `starship.toml` in `dotfies` repository and paste it to the local file.
+          1. Copy `starship.toml` in `dotfies` repository and paste it to the local file.
       4. Open Warp Settings and select `PS1` for prompt (default is Warp prompt)
