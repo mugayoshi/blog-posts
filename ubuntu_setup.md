@@ -1,5 +1,6 @@
 # Basic Setup
 1. connect devices (mouse, keyboard, etc.)
+2. modify keyboard shortcuts (take a screenshot interactively, etc.)
 
 # Productivity Apps
 - Diodon (Clipboard manager)
