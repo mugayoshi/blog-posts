@@ -1,9 +1,11 @@
 # Basic Setup
 1. connect devices (mouse, keyboard, etc.)
 
+# Productivity Apps
+- Diodon (Clipboard manager)
 
-# Setup for Developers
+# Setups for Developers
+Refer to the same section in `mac_setup.md`.
 
-1. Install Warp (https://www.warp.dev/linux-terminal)
-2. Install git
-    1. ```sudo apt install git-all```
+git can be installed with the following command  
+```sudo apt install git-all```
