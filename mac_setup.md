@@ -19,12 +19,13 @@
 - Headphones, etc.
 
 # Browser
-## Extensions
+## Chrome Extensions
 - 1Password
 - CrxMouse
 - Grammarly
+- Tab Wrangler
 - React Developer Tools
-- GoLinks
+- GoLinks (only for companies)
 - AdBlock
 
 # Slack
