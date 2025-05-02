@@ -41,7 +41,7 @@
   - https://apps.apple.com/es/app/be-focused-pomodoro-timer/id973134470?l=en-GB&mt=12
 - [ ] Maccy (clipboard manager)Maccy - macOS clipboard manager
   - https://maccy.app/
-  - it’s possible to get it for free
+  - ~~it’s possible to get it for free~~
   - Adjust setting
     - Open: "Shift + Cmd + M"
 
