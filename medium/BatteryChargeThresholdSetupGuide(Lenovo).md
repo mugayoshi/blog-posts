@@ -1,11 +1,14 @@
 # Ubuntu Battery Charge Threshold Setup Guide (Lenovo)
 
 This guide covers setting up battery charge thresholds on Linux systems to extend battery life by limiting charging to a specific range (e.g., 75-85%).
+
+This guide was written mostly by [Warp](https://www.warp.dev/).
+
 This method was tested with Ubuntu 24.04.2.
 
 ## Quick Reference
 
-**For Lenovo systems (ThinkPad, etc.):**
+
 
 ```bash
 # Set thresholds manually
@@ -28,7 +31,7 @@ sudo dmidecode -s system-product-name
 
 ### 2. Check Available Battery Controls
 
-### For Lenovo/ThinkPad Systems:
+
 
 ```bash
 # Check if battery threshold controls are available
@@ -161,5 +164,8 @@ cat /sys/class/power_supply/BAT0/capacity
 - Modern batteries have built-in protection, but software limits provide additional benefit
 - Some manufacturers (like ASUS) have their own specific tools and methods
 - Always test the method that works for your specific system and hardware configuration.
-- After I set this up, I've experienced a sudden crash several times when I unplugged USB-C cable from my Lenovo laptop. It might have something to do with this configuration.
+- After I set this up, I've experienced a sudden crash several times when I unplugged the USB-C cable from my Lenovo laptop. It might have something to do with this configuration.
 
+
+
+Thank you for reading this article!!
