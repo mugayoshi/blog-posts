@@ -1,6 +1,6 @@
 # Improve Your Ubuntu Workflow with These Essential Productivity Apps
 
-In this article, I'm sharing a couple of my personal favorites that I use every day on my Ubuntu machine. These apps help me stay focused, manage my work efficiently, and ultimately, get more done.
+In this article, I'm sharing a couple of my personal favourites that I use every day on my Ubuntu machine. These apps help me stay focused, manage my work efficiently, and ultimately, get more done.
 
 ## 1. Diodon: A Lightweight Clipboard Manager
 
@@ -14,13 +14,13 @@ The main selling point of Diodon is its simplicity. It does one thing, and it do
 
 ### Room for Improvement
 
-However, Diodon's simplicity is also its biggest drawback. It lacks some of the advanced features you might find in other clipboard managers:
+However, Diodon's simplicity is also its some drawbacks. It lacks some of the advanced features you might find in other clipboard managers:
 
 *   **No Image Support:** You can only copy and paste text, not images.
 *   **Limited Shortcuts:** There isn't a default shortcut to quickly bring up the clipboard history, which can slow you down.
 *   **No Index-Based Pasting:** You can't, for example, press a key combination to paste the second-to-last item in your history.
 
-**The Verdict:** Diodon is perfect for users who want a minimal, resource-friendly clipboard manager. If you need more advanced features like image support or powerful keyboard shortcuts, you might want to look at alternatives like **CopyQ**.
+**The Verdict:** Diodon is perfect for users who want a minimal, resource-friendly clipboard manager. If you need more advanced features like image support or powerful keyboard shortcuts, you might want to look at alternatives like **CopyQ**.[https://copyq.readthedocs.io/en/latest/index.html](https://copyq.readthedocs.io/en/latest/index.html)
 
 ## 2. GNOME Pomodoro: Master Your Focus
 
@@ -44,7 +44,7 @@ My only small complaint is with the top bar integration. It displays a circle th
 
 
 
-## Final Thoughts and Your Recommendations
+## Final Thoughts 
 
-Writing this article led me to an interesting discovery. While I've been content with Diodon's simplicity, researching alternatives reminded me that there's always something new to try. I was particularly impressed by the feature set of **CopyQ**, and I'm planning to give it a spin to see if it can further optimize my workflow.
+Writing this article led me to an interesting discovery. While I've been content with Diodon's simplicity, researching alternatives reminded me that there's always something new to try. I was particularly impressed by the feature set of **CopyQ**, and I'm planning to give it a spin to see if it can further optimise my workflow.
 
