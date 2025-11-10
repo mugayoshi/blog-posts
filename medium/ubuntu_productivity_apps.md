@@ -16,9 +16,9 @@ The main selling point of Diodon is its simplicity. It does one thing, and it do
 
 However, Diodon's simplicity is also its some drawbacks. It lacks some of the advanced features you might find in other clipboard managers:
 
-*   **No Image Support:** You can only copy and paste text, not images.
 *   **Limited Shortcuts:** There isn't a default shortcut to quickly bring up the clipboard history, which can slow you down.
 *   **No Index-Based Pasting:** You can't, for example, press a key combination to paste the second-to-last item in your history.
+*   **No Searching feature:** 
 
 **The Verdict:** Diodon is perfect for users who want a minimal, resource-friendly clipboard manager. If you need more advanced features like image support or powerful keyboard shortcuts, you might want to look at alternatives like **CopyQ**.[https://copyq.readthedocs.io/en/latest/index.html](https://copyq.readthedocs.io/en/latest/index.html)
 
